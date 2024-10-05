@@ -40,3 +40,6 @@ next-env.d.ts
 clacky-output/
 .clacky-cache/
 *.clacky.log
+
+# additional clacky specific rules
+# Add any other Clacky-related ignores here as per the playbook guidelines.
