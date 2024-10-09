@@ -2,3 +2,5 @@ run_command: npm run dev
 
 #xxxxx
 #yyyyy
+
+run_command: npm run dev
