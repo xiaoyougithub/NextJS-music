@@ -4,7 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-.pnpm-store
 
 # testing
 /coverage
@@ -42,4 +41,38 @@ clacky-output/
 *.clacky.log
 
 # additional clacky specific rules
+cython_debug/
+.git/
+.1024.nix
+.1024nix
+.1024feature*
+.nfs*
+*.dll
+.paas-unit-*
+core.*
+.breakpoints
+.env
+
+# General
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.tmp
+*.swp
+*.bak
+*.pid
+*.seed
+*.pid.lock
+
+# JavaScript/TypeScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.pnpm-store/
+dist/
+*.tsbuildinfo
+
 # Add any other Clacky-related ignores here as per the playbook guidelines.

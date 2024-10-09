@@ -1,4 +1,4 @@
-run_command: pnpm dev
+run_command: npm run dev
 
 #xxxxx
 #yyyyy
