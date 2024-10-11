@@ -3,4 +3,4 @@ run_command: npm run dev
 #xxxxx
 #yyyyy
 
-run_command: npm run dev
+run_command: npm run dev --host 0.0.0.0 --port 8080
