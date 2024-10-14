@@ -40,3 +40,4 @@ test
 The application supports audio file uploads, which are stored in the public/audio and public/cover directories. It interacts with a sqlite database to store metadata of uploaded files. This project allows users to easily upload, manage, and access their audio files through a user-friendly interface, ensuring a seamless experience while providing necessary tools for efficient file handling.
 
 update by hmj in 2024/10/09 17:14
+update by hmj in 2024/10/14 15:58
